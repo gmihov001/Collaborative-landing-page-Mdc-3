@@ -7,10 +7,22 @@ top: 100px;
 left: 100px;
 }
 
+.heading2photo {
+width: 100px;
+height: 100px;
+border-radius: 50%;
+position: relative;
+top: 100px;
+
+}
 .container-fluid .heading {
 
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
 
+.container-fluid .heading2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
 
